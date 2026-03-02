@@ -1,4 +1,4 @@
-# 🚀 LasanaTeam | Software Solutions
+# 🚀 LasañaTeam | Software Solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blue?style=for-the-badge" alt="Focus">
