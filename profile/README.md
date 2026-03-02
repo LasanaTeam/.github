@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 ¿Quiénes somos?
-Somos **LasanaTeam**, un grupo de desarrolladores y analistas apasionados por la tecnología, formados en el doble grado de **Ingeniería Informática y Administración de Empresas (INFOADE)**. 
+Somos **LasañaTeam**, un grupo de desarrolladores y analistas apasionados por la tecnología, formados en el doble grado de **Ingeniería Informática y Administración de Empresas (INFOADE)**. 
 
 Esta formación híbrida nos permite no solo escribir código sólido y escalable, sino también entender las necesidades reales de negocio, optimizar procesos y crear soluciones que generen valor económico y operativo.
 
@@ -35,13 +35,13 @@ Un proyecto de alto rendimiento que simula un ecosistema de juegos de azar.
 - **Lo que lo hace especial:** Gestión de estados en tiempo real, lógica matemática compleja para las apuestas y una arquitectura limpia.
 - **Tecnologías:** Java / Desarrollo Orientado a Objetos.
 
-### 📁 [Organización LasanaTeam](https://github.com/LasanaTeam)
+### 📁 [Organización LasañaTeam](https://github.com/LasanaTeam)
 Aquí es donde ocurre la magia. Albergamos diferentes microservicios, experimentos de software y herramientas de gestión empresarial.
 
 ---
 
 ## 📊 Por qué trabajar con nosotros (El factor INFOADE)
-A diferencia de otros equipos de desarrollo, en **LasanaTeam** entendemos:
+A diferencia de otros equipos de desarrollo, en **LasañaTeam** entendemos:
 1. **ROI (Retorno de Inversión):** No desarrollamos por desarrollar; buscamos impacto.
 2. **Escalabilidad:** Código preparado para el crecimiento del negocio.
 3. **Comunicación:** Hablamos "tech" con los devs y "negocio" con los stakeholders.
@@ -51,7 +51,7 @@ A diferencia de otros equipos de desarrollo, en **LasanaTeam** entendemos:
 ## 📫 Contacto & Conexión
 ¡Estamos abiertos a colaboraciones, proyectos freelance o simplemente a charlar sobre tech y economía!
 
-- 🌐 **GitHub:** [LasanaTeam](https://github.com/LasanaTeam)
+- 🌐 **GitHub:** [LasañaTeam](https://github.com/LasanaTeam)
 ---
 
 <p align="center">
