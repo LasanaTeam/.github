@@ -52,8 +52,6 @@ A diferencia de otros equipos de desarrollo, en **LasanaTeam** entendemos:
 ¡Estamos abiertos a colaboraciones, proyectos freelance o simplemente a charlar sobre tech y economía!
 
 - 🌐 **GitHub:** [LasanaTeam](https://github.com/LasanaTeam)
-- 🚀 **Main Developer:** [0xjoseangel](https://github.com/0xjoseangel)
-
 ---
 
 <p align="center">
