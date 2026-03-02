@@ -55,5 +55,5 @@ A diferencia de otros equipos de desarrollo, en **LasanaTeam** entendemos:
 ---
 
 <p align="center">
-  Hecho con ❤️ por el equipo de LasanaTeam 💻📊
+  Hecho con ❤️ por el equipo de LasañaTeam 💻📊
 </p>
